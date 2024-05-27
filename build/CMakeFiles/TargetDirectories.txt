@@ -1,0 +1,4 @@
+D:/PTUD_IOT/smarthome/build/CMakeFiles/unity.dir
+D:/PTUD_IOT/smarthome/build/CMakeFiles/INSTALL.dir
+D:/PTUD_IOT/smarthome/build/CMakeFiles/ALL_BUILD.dir
+D:/PTUD_IOT/smarthome/build/CMakeFiles/ZERO_CHECK.dir
